@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+</body>
+
+<h1><a href="#pourquoi">DREEN</a></h1>
+
+<h2>By <a href="https://previews.123rf.com/images/artemsobov/artemsobov2003/artemsobov200300166/144255134-the-first-spring-flower-plant-sprouts-from-the-earth-in-the-sun-awakening-of-nature-early-spring-.jpg">the earth</a> 
+    for <a href="https://images.fineartamerica.com/images-medium-large/human-body-by-da-vinci-omikron.jpg">the body.</a>
+</h2>
+<hr>
+<main>
+<p>Une boisson innovante Thé + CBD
+<br>
+Une recette unique 100% biologique 
+<br> 
+conditionnée dans une bouteille en papier 
+<br>
+dans un soucie de respect de la planète 
+</p>
+<hr>
+<a href="#"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/24550161307103.5a69f93ac87d9.jpg" alt="A girl look profile watering flowers which are growing on his hair" width="500px"></a>
+<p id="pourquoi">pourquoi DREEN ?</p>
+<ol>
+    <li>pour se connecter à la nature</li>
+    <li>pour traverser les âges avec un corps équilibré</li>
+    <li>pour laisser une planète viable à vos enfants</li>
+</ol>
+<a href="#"><img src="https://i.pinimg.com/originals/50/12/d5/5012d53515cb8fe2b3e4080a97170572.jpg" alt="A girl look head-on watering flowers which are growing on his hair" width="500px"></a>
+<p>Ce que l'on vous à proposé jusqu'à aujourd'hui</p>
+<ol>
+    <li>des boissons chimiques</li>
+    <li>de l'obésité</li>
+    <li>la polution des terres et des océans</li>
+</ol>
+<a href="#"><img src="https://www.zerowastemontenegro.me/wp-content/uploads/2019/04/plastic-bottles-beach.png" alt="wastes cocacola on beach" width="500px"></a>
+<hr>
+<h3>Parce que votre opinion compte:</h3>
+<hr>
+<ul>
+    <li>Nom <input type="text" required placeholder="Nom"></li>
+    <li>Prénom <input type="text" required placeholder="Prénom"></li>
+    <li>Âge <input type="text" required placeholder="Âge"></li>
+    <li>Pays <input type="text" required placeholder="Pays"></li>
+    <li>Département <input type="text" required placeholder="Département"></li>
+    <li>Ville <input type="text" required placeholder="Ville"></li>
+</ul>
+<p>
+    A quelle fréquence voyages-tu ? :
+    <br>
+    <label for="jamais"><input id="jamais et je veux changer ça dès que possible" value="jamais et je veux changer ça dès que possible"type="checkbox" name="voyage">
+        jamais et je veux changer ça dès que possible</label>
+    <br>
+    <label for="une fois et je veux refaire ça dès que possible"><input id="une fois et je veux refaire ça dès que possible" value="une fois et je veux refaire ça dès que possible" type="checkbox" name="voyage">
+        une fois et je veux refaire ça dès que possible</label>
+    <br>
+    <label for="au moins une fois par an et c'est le plus beau moment de l'année"><input id="au moins une fois par an et c'est le plus beau moment de l'année" value="au moins une fois par an et c'est le plus beau moment de l'année" type="checkbox" name="voyage">
+        au moins une fois par an et c'est le plus beau moment de l'année</label>
+    <br>
+    <label for="tout le temps, je suis un nomade et rien ne pourra y changer"><input id="tout le temps, je suis un nomade et rien ne pourra y changer" value="tout le temps, je suis un nomade et rien ne pourra y changer" type="checkbox" name="voyage">
+        tout le temps, je suis un nomade et rien ne pourra y changer</label>
+
+</p>
+<p>Connaissez-vous le CBD ?</p>
+<label for="oui">
+    <input id="Oui" type="radio" name="cbd_oui_non">Oui
+</label>
+<label for="non">
+    <input id="non" type="radio" name="cbd_oui_non">Non
+</label>
+<form action="Contenu/Remerciement.html"><input type="text" required placeholder="Avez vous d'autres commentaires à ajouter ?"><button type="submit">Soumettre</button> </form>
+</main>
+<body>
+    </html>
